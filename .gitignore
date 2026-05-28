@@ -217,7 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 # ML model files
-*.pkl
+# *.pkl  (keeping models in repo for deployment)
 
 # Data files
 data/raw/
