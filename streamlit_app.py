@@ -52,7 +52,7 @@ TRANSLATIONS = {
 }
 
 # API URL — local for now, will change to Render URL after deploy
-API_URL = "http://127.0.0.1:5000/api"
+API_URL = "https://farmsense-api-oj7k.onrender.com/api"
 
 # Sidebar
 with st.sidebar:
