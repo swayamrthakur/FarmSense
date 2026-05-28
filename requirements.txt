@@ -1,12 +1,12 @@
 flask==3.0.0
 flask-cors==4.0.0
-scikit-learn==1.5.2
-pandas==2.2.2
-numpy==2.0.2
+scikit-learn
+pandas
+numpy
 requests==2.31.0
 python-dotenv==1.0.0
 gunicorn==21.2.0
-joblib==1.4.2
+joblib
 streamlit==1.42.0
 pillow==11.2.1
 pytest==8.0.0
