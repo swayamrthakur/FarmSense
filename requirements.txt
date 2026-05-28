@@ -7,6 +7,6 @@ requests==2.31.0
 python-dotenv==1.0.0
 gunicorn==21.2.0
 joblib
-streamlit==1.42.0
-pillow==11.2.1
+streamlit
+pillow
 pytest==8.0.0
